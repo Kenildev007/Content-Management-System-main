@@ -9,9 +9,9 @@
                 </div>
               </div>
               <div id="socialBtnContainer">
-                <a href="https://www.facebook.com/prasant.chandrapoddar?mibextid=ZbWKwL"><i class="fa-brands fa-square-facebook"></i></a>
-                <a href="https://www.instagram.com/prasant.cp"><i class="fa-brands fa-instagram"></i></a>
-                <a href="https://www.linkedin.com/in/prasantcp"><i class="fa-brands fa-linkedin"></i></a>
+                <a href="https://www.facebook.com/kenil.gorasiya.7?mibextid=ZbWKwL"><i class="fa-brands fa-square-facebook"></i></a>
+                <a href="https://www.instagram.com/kenil__gorasiya__/?hl=en"><i class="fa-brands fa-instagram"></i></a>
+                <a href="https://www.linkedin.com/in/kenil-gorasiya-155140240/"><i class="fa-brands fa-linkedin"></i></a>
               </div>
               <div id="feedbackBtnContainer">
                 <button type="submit" id="feedbackBtn">Share your feedback!</button>
